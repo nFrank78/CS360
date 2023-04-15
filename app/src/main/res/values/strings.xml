@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nick\'s Inventory App</string>
+    <string name="Settings">⋮</string>
+    <string name="delete_error">Delete Item Error</string>
+    <string name="delete_confirmation">Are you sure you would like to delete this item?</string>
+    <string name="delete_confirmation_title">Delete Item</string>
+    <string name="save_error">Item already exists</string>
+    <string name="invalid_login">Invalid credentials</string>
+    <string name="registration_error">Registration error</string>
+    <string name="empty_list">Inventory is empty</string>
+    <string name="manage_notifications">Manage Notifications</string>
+    <string name="logout_text">Logout</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="notification_description">Toggle to recieve SMS notifications when an inventory item is low.</string>
+    <string name="SMS_notifications">SMS Notifications</string>
+    <string name="SMS_permission_needed">Permission needed</string>
+</resources>
